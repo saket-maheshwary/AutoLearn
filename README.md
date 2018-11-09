@@ -10,3 +10,5 @@ This repository contains source code for the research work described in:
 -- The hyperparameters values of the threshold are hard coded. 
 
 -- Use hyperparameter optimization to get the best results for each classifier.
+
+-- All dataset files should follow the same template as that of sonar.csv (label column at the last)
