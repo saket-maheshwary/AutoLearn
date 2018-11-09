@@ -7,4 +7,6 @@ This repository contains source code for the research work described in:
 ## Note:
 -- The current version of the code is not optimized. I will updated the optimized version in coming weeks.
 
--- The hyperparameters deciding the threshold are hard coded. Use hyperparameter optimization to get the best results for each classifier.
+-- The hyperparameters values of the threshold are hard coded. 
+
+-- Use hyperparameter optimization to get the best results for each classifier.
