@@ -24,3 +24,19 @@ python main.py
 -- The hyperparameters values of the threshold are hard coded. Use hyperparameter optimization for best results.
 
 -- All dataset files should follow the exact same template as that of sonar.csv (class labels column at the last)
+
+
+## Citation:
+
+
+    If you use our code for a publication, please cite the following paper:
+    
+    @inproceedings{kaul2017autolearn,
+    title={AutoLearn—Automated Feature Generation and Selection},
+    author={Kaul, Ambika and Maheshwary, Saket and Pudi, Vikram},
+    booktitle={Data Mining (ICDM), 2017 IEEE International Conference on},
+    pages={217--226},
+    year={2017},
+    organization={IEEE}
+    }   
+
