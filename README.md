@@ -18,7 +18,7 @@ python main.py
 ```
 
 
-## Note:
+## Note
 -- The current version of the code is not optimized. I will updated the optimized version in coming weeks.
 
 -- The hyperparameters values of the threshold are hard coded. Use hyperparameter optimization for best results.
@@ -26,7 +26,7 @@ python main.py
 -- All dataset files should follow the exact same template as that of sonar.csv (class labels column at the last)
 
 
-## Citation:
+## Citation
 
 
    If you use our code, please cite the following paper:
