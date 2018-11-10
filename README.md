@@ -1,4 +1,4 @@
-# AutoLearn (ICDM 2017)
+# AutoLearn - Automated Feature Generation and Selection (ICDM 2017)
 
 This repository contains source code for the research work described in:
 
