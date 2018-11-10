@@ -29,7 +29,7 @@ python main.py
 ## Citation:
 
 
-    If you use our code for a publication, please cite the following paper:
+   If you use our code, please cite the following paper:
     
     @inproceedings{kaul2017autolearn,
     title={AutoLearn—Automated Feature Generation and Selection},
