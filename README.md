@@ -23,4 +23,4 @@ python main.py
 
 -- The hyperparameters values of the threshold are hard coded. Use hyperparameter optimization for best results.
 
--- All dataset files should follow the same template as that of sonar.csv (label column at the last)
+-- All dataset files should follow the exact same template as that of sonar.csv (class labels column at the last)
