@@ -29,7 +29,7 @@ python main.py
 ## Citation
 
 
-   If you use our code, please cite the following paper:
+   If you use our code, please cite the following papers:
     
     @inproceedings{kaul2017autolearn,
     title={AutoLearn—Automated Feature Generation and Selection},
@@ -39,4 +39,13 @@ python main.py
     year={2017},
     organization={IEEE}
     }   
+    
+
+    @MISC{saket:automl_pdf,
+      AUTHOR = "Maheshwary, Saket and Kaul, Ambika and Pudi, Vikram",
+      TITLE = "Data Driven Feature Learning",
+      MONTH = Aug,
+      YEAR = 2017,
+      NOTE = "\url{https://www.researchgate.net/publication/325736313_Data_Driven_Feature_Learning}"
+    }
 
