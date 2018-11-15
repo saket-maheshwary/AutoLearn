@@ -46,6 +46,6 @@ python main.py
       TITLE = "Data Driven Feature Learning",
       MONTH = Aug,
       YEAR = 2017,
-      NOTE = "\url{https://www.researchgate.net/publication/325736313_Data_Driven_Feature_Learning}"
+      NOTE =    "\url{https://www.researchgate.net/profile/Saket_Maheshwary/publication/325736313_Data_Driven_Feature_Learning/links/5b20e25ca6fdcc69745d796c/Data-Driven-Feature-Learning.pdf}"
     }
 
