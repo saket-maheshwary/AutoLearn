@@ -35,7 +35,7 @@ from sklearn.feature_selection import mutual_info_classif
 
 __author__ = "Saket Maheshwary, Ambika Kaul"
 __credits__ = ["Saket Maheshwary", "Ambika Kaul"]
-__license__ = "MIT License"
+__license__ = "MIT"
 __version__ = "1.0.1"
 __maintainer__ = "Saket Maheshwary, Ambika Kaul"
 __email__ = "saketm.1991@gmail.com"
