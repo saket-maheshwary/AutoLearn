@@ -1,5 +1,5 @@
-#AutoLearn ![GitHub stars](https://img.shields.io/github/stars/saket-maheshwary/AutoLearn.svg?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/saket-maheshwary/AutoLearn.svg?color=blue&style=plastic) ![License](https://img.shields.io/github/license/saket-maheshwary/AutoLearn.svg?color=blue&style=plastic)
-============================================================================================================
+AutoLearn ![GitHub stars](https://img.shields.io/github/stars/saket-maheshwary/AutoLearn.svg?style=plastic) ![GitHub forks](https://img.shields.io/github/forks/saket-maheshwary/AutoLearn.svg?color=blue&style=plastic) ![License](https://img.shields.io/github/license/saket-maheshwary/AutoLearn.svg?color=blue&style=plastic)
+===========================================================================================================================
 
 This repository contains source code for the research work described in our IEEE ICDM 2017 paper :
 
